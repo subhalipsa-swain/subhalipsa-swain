@@ -11,13 +11,6 @@
 - 📫 Reach me at: **subhalipsa.official@gmail.com**
 
 ---
-
-### 🧠 Fun Fact
-
-> 💡 The first "computer bug" was a real insect — a moth found inside a Harvard Mark II computer in 1947!
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -33,17 +26,11 @@
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
+
 ---
+### 🧠 Fun Fact
 
-### 📊 GitHub Stats (Optional)
-
-<!-- Remove comment tags below if you'd like to show your GitHub stats -->
-
-<!--
-![Subhalipsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhalipsaswain&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhalipsaswain&layout=compact&theme=radical)
--->
+> 💡 The first "computer bug" was a real insect — a moth found inside a Harvard Mark II computer in 1947!
 
 ---
 
